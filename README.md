@@ -1,6 +1,7 @@
 # SlasherZ
 This repository contains the source code for my 2 player fighter game programmed using Python and using Pygame.
-Majority of assets are purchased for free from third parties, and their credits will be provided below (In progress)
+Majority of assets are purchased for free from third parties.
+Credits will be provided below (In progress)
 
 
 
