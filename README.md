@@ -1,9 +1,15 @@
 # SlasherZ
+
+HOW TO PLAY: 
+
+Download the SlasherZ.exe and follow the instructions to install all the assets. From there, you can run the game.
+
+
+INFO:
+
 This repository contains the source code for my 2 player fighter game programmed using Python and using Pygame.
 Majority of assets are purchased for free from third parties.
 Credits will be provided below (In progress)
-
-
 
 
 Player 1 controls:
