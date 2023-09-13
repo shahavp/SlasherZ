@@ -27,6 +27,10 @@ There are cooldowns for any attacks or blocks
 
 CREDITS:
 
+Character sprites downloaded from LuizMelo
+Arena background downloaded from edermunizz
+Home Screen background by Vicente Nitti (@vnitti)
+Logo and source code developed by me
 
 
 
